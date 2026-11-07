@@ -1,4 +1,4 @@
-# RepX
+# Low-Power Mixed-Signal Counter (RepX)
 
 **RepX** is a handheld grip rep counter designed to automatically count hand-gripper repetitions.
 
